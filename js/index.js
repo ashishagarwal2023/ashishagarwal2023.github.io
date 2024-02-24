@@ -19,7 +19,7 @@
     } )
   
     function revealEmail() {
-      const email = 'si' + atob('dGVAYW4=') + 'na.' + atob(y('oTqv')) + 't';
+      const email = 'code.with.aasheesh@gmail.com';
   
       const emailLink = document.createElement('a');
       emailLink.setAttribute('href', `mailto:${email}`);
